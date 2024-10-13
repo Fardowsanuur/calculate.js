@@ -5,9 +5,8 @@
 - *Class Name*: CA211
 
 ---
-Here’s a possible structure for your `README.md` file based on the `calculateTarget.js` file you've provided:
 
----
+
 
 # Calculate Total Target
 
